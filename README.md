@@ -36,8 +36,9 @@ Recall: 0.77
 mAP@50 (Car class): 0.849
 
 3. Results
-The trained model successfully detects cars and other vehicles in video frames.
+The trained model successfully detects cars and other vehicles.
 Example detections include 15–27 cars per frame, plus motorcycles, buses, pickups, and trucks.
 
 4. Author: Group 1
 Group members: Faizan, Pasha, Eric, Frank.
+
