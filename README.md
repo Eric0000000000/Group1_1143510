@@ -1,10 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-
-
-
-
 # CS Final Project: Vehicle Detection with YOLOv8
 
 This project demonstrates vehicle detection using the YOLOv8 framework.  
@@ -59,11 +52,3 @@ Example detections include 15–27 cars per frame, plus motorcycles, buses, pick
 👤 Author
 Faizan Ul Haq  
 International Bachelor Program in Informatics, Yuan Ze University (YZU), Taiwan
-
-
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
