@@ -19,36 +19,25 @@ We trained a custom dataset of vehicles and tested the model on video footage to
 You can reproduce predictions directly from the command line without writing Python scripts:
 
 ```bash
-yolo predict model="best.pt" source="video.mp4" show=True save=True
-model="best.pt" → trained weights
-
+1. yolo predict model="best.pt & last.pt" source="video.mp4" show=True save=True
+model="best.pt & last.pt" → trained weights
 source="video.mp4" → input video file
-
 show=True → display detections live
-
 save=True → save results to runs/detect/
 
-🧠 Training Summary
+2. Training Summary
 Framework: YOLOv8 (Ultralytics)
-
 Model: YOLOv8s
-
 Epochs: 100
-
 Dataset: Custom labeled vehicle dataset
-
 Performance:
-
 Precision: 0.81
-
 Recall: 0.77
-
 mAP@50 (Car class): 0.849
 
-🎥 Results
+3. Results
 The trained model successfully detects cars and other vehicles in video frames.
 Example detections include 15–27 cars per frame, plus motorcycles, buses, pickups, and trucks.
 
-👤 Author
-Group 1 members: Faizan, Pasha, Eric, Frank.
-International Bachelor Program in Informatics, Yuan Ze University (YZU), Taiwan.
+4. Author: Group 1
+Group members: Faizan, Pasha, Eric, Frank.
