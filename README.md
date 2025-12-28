@@ -1,11 +1,11 @@
 # CS Final Project: Vehicle Detection with YOLOv8
 
 This project demonstrates vehicle detection using the YOLOv8 framework.  
-I trained a custom dataset of vehicles and tested the model on video footage to evaluate detection accuracy.
+We trained a custom dataset of vehicles and tested the model on video footage to evaluate detection accuracy.
 
 ---
 
-## 📁 Project Contents
+## Project Contents
 - `best.pt & last.pt` — trained YOLOv8 weights
 - `data.yaml` — dataset configuration file
 - `report.pdf` — final written report
@@ -15,7 +15,7 @@ I trained a custom dataset of vehicles and tested the model on video footage to 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 You can reproduce predictions directly from the command line without writing Python scripts:
 
 ```bash
@@ -50,7 +50,5 @@ The trained model successfully detects cars and other vehicles in video frames.
 Example detections include 15–27 cars per frame, plus motorcycles, buses, pickups, and trucks.
 
 👤 Author
-Faizan Ul Haq  
-International Bachelor Program in Informatics, Yuan Ze University (YZU), Taiwan
-
-
+Group 1 members: Faizan, Pasha, Eric, Frank.
+International Bachelor Program in Informatics, Yuan Ze University (YZU), Taiwan.
