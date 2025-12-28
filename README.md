@@ -9,8 +9,8 @@ I trained a custom dataset of vehicles and tested the model on video footage to 
 - `best.pt` — trained YOLOv8 weights
 - `data.yaml` — dataset configuration file
 - `report.pdf` — final written report
-- `presentation.pptx` — slides for final presentation
-- `runs/` — training logs and prediction results
+- `presentation.pdf` — slides for final presentation
+- `results` — training logs and prediction results
 - `video.mp4` — sample input video used for testing
 
 ---
@@ -52,3 +52,4 @@ Example detections include 15–27 cars per frame, plus motorcycles, buses, pick
 👤 Author
 Faizan Ul Haq  
 International Bachelor Program in Informatics, Yuan Ze University (YZU), Taiwan
+
